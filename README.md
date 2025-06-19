@@ -21,10 +21,9 @@ Meu foco principal está no desenvolvimento e implantação de sistemas informat
 Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,react,python,django,flask,outsystems,mysql,postgresql,aws,docker,git,github,vscode,figma,canva](https://skillicons.dev/icons?i=html,css,js,react,flutter,mysql,outsystems,figma,canva,git,github,vscode)" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,mysql,outsystems,figma,canva,git,github,vscode" />
   <br>
-  <br>
-  **Especialidades:** OutSystems, Análise de Dados, Desenvolvimento Web, UX/UI Design.
+  **Especialidades:** HTML, CSS, JavaScript, React, Flutter, MySQL, OutSystems, UX, UI, Canva, Figma.
 </p>
 
 ---
@@ -58,7 +57,7 @@ Exemplo:
   </a>
 </p>
 <p>Breve descrição do projeto 2.
-  <br><strong>Tecnologias:</strong> Python, Banco de Dados.
+  <br><strong>Tecnologias:</strong> Flutter, MySQL, Figma.
   <br>[Ver Repositório](LINK_DO_REPOSITORIO_2) | [Ver Demo (se houver)](LINK_DA_DEMO_2)
 </p>
 
