@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-Atualmente em formação pela Estácio, eu integro a equipe do **Governo do Distrito Federal** como **Desenvolvedor**, onde aplico minhas competências em **análise de dados** e **desenvolvimento Web**. Minha paixão pela tecnologia e o desejo de criar soluções inovadoras norteiam meu trabalho diário.
+Atualmente em formação pela Estácio, eu integro a equipe da **Secretaria de Estado de Esporte e Lazer do Distrito Federal** como **Assessor Técnico da Gerência de Desenvolvimento**, onde aplico minhas competências em **Análise de dados** e **Desenvolvimento Web**. Minha paixão pela tecnologia e o desejo de criar soluções inovadoras norteiam meu trabalho diário.
 
 Meu foco principal está no desenvolvimento e implantação de sistemas informatizados, colaborando ativamente na otimização de processos e no suporte técnico. Busco sempre a excelência e a satisfação do cliente, e considero a habilidade em trabalhar em equipe e a facilidade de adaptação como diferenciais essenciais no meu papel.
 
@@ -28,37 +28,15 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 ---
 
-### 💻 Projetos em Destaque
-
-Aqui você listará seus projetos mais relevantes. Para cada um, idealmente inclua:
-* Um link para o repositório.
-* Uma breve descrição.
-* Tecnologias usadas.
-* Um link para uma demo ao vivo (se houver).
-* Uma imagem ou GIF do projeto em ação (isso faz TODA a diferença!).
-
-Exemplo:
-
-#### **Nome do Projeto 1**
+#### **Doctor Main**
 <p>
-  <a href="LINK_DO_REPOSITORIO_1">
+  <a href="https://github.com/GabrielLima05/doctormain-main">
     <img src="LINK_DA_IMAGEM_OU_GIF_DO_PROJETO_1" alt="Nome do Projeto 1" width="400">
   </a>
 </p>
-<p>Breve descrição do projeto 1, o que ele faz e qual problema resolve. 
-  <br><strong>Tecnologias:</strong> HTML, CSS, JavaScript, OutSystems.
-  <br>[Ver Repositório](LINK_DO_REPOSITORIO_1) | [Ver Demo (se houver)](LINK_DA_DEMO_1)
-</p>
-
-#### **Nome do Projeto 2**
-<p>
-  <a href="LINK_DO_REPOSITORIO_2">
-    <img src="LINK_DA_IMAGEM_OU_GIF_DO_PROJETO_2" alt="Nome do Projeto 2" width="400">
-  </a>
-</p>
-<p>Breve descrição do projeto 2.
-  <br><strong>Tecnologias:</strong> Flutter, MySQL, Figma.
-  <br>[Ver Repositório](LINK_DO_REPOSITORIO_2) | [Ver Demo (se houver)](LINK_DA_DEMO_2)
+<p>O projeto doctormain-main é uma aplicação web desenvolvida com foco em cuidados hospitalares ou domiciliares. Construído predominantemente com HTML e CSS para a estrutura e estilização, e complementado por JavaScript para funcionalidades interativas, este repositório apresenta uma base sólida para a gestão e visualização de informações relacionadas a ambientes de saúde. 
+  <br><strong>Tecnologias:</strong> HTML, CSS, JavaScript.
+  <br>[Ver Repositório](https://github.com/GabrielLima05/doctormain-main.git) | [Ver Demo (se houver)](LINK_DA_DEMO_1)
 </p>
 
 ---
