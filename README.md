@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DA_SUA_FOTO_DE_PERFIL_AQUI" width="150px" alt="Gabriel Lima" style="border-radius: 50%;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHnc8RmOXE5LQ/profile-displayphoto-shrink_800_800/B4DZWj1PViGkAc-/0/1742210398384?e=1755734400&v=beta&t=fMqHa7A9hAwCDbxZuN0_UjF-H2mK9RS_SQxLfJCHi6k" width="150px" alt="Gabriel Lima" style="border-radius: 50%;">
   <h1>Olá, sou o Gabriel Lima! 👋</h1>
   <p>Desenvolvedor apaixonado por criar soluções inovadoras e otimizar processos.</p>
 </div>
