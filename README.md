@@ -36,7 +36,7 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 </p>
 <p>O projeto doctormain-main é uma aplicação web desenvolvida com foco em cuidados hospitalares ou domiciliares. Construído predominantemente com HTML e CSS para a estrutura e estilização, e complementado por JavaScript para funcionalidades interativas, este repositório apresenta uma base sólida para a gestão e visualização de informações relacionadas a ambientes de saúde. 
   <br><strong>Tecnologias:</strong> HTML, CSS, JavaScript.
-  <br>[Ver Repositório](https://github.com/GabrielLima05/doctormain-main.git) | [Ver Demo (se houver)](LINK_DA_DEMO_1)
+  <br>[Ver Repositório](https://github.com/GabrielLima05/doctormain-main.git) 
 </p>
 
 ---
