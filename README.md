@@ -21,7 +21,7 @@ Meu foco principal está no desenvolvimento e implantação de sistemas informat
 Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,mysql,outsystems,figma,canva,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,mysql,figma,git,github,vscode" />
   <br>
   **Especialidades:** HTML, CSS, JavaScript, React, Flutter, MySQL, OutSystems, UX, UI, Canva, Figma.
 </p>
