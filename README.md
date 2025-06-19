@@ -21,7 +21,7 @@ Meu foco principal está no desenvolvimento e implantação de sistemas informat
 Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,flask,outsystems,mysql,postgresql,aws,docker,git,github,vscode,figma,canva" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,react,python,django,flask,outsystems,mysql,postgresql,aws,docker,git,github,vscode,figma,canva](https://skillicons.dev/icons?i=html,css,js,react,flutter,mysql,outsystems,figma,canva,git,github,vscode)" />
   <br>
   <br>
   **Especialidades:** OutSystems, Análise de Dados, Desenvolvimento Web, UX/UI Design.
