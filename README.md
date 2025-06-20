@@ -22,7 +22,7 @@ Here are the technologies and tools I work with:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,mysql,figma,git,github,vscode" />
   <br>
-  **Specialties:** HTML, CSS, JavaScript, React, Flutter, MySQL, OutSystems, UX, UI, Canva, Figma.
+  Specialties: HTML, CSS, JavaScript, React, Flutter, MySQL, OutSystems, UX, UI, Canva, Figma.
 </p>
 
 ---
