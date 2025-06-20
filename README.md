@@ -1,29 +1,28 @@
 <div align="center">
-  git add #<img src="https://media.licdn.com/dms/image/v2/D4D03AQHnc8RmOXE5LQ/profile-displayphoto-shrink_800_800/B4DZWj1PViGkAc-/0/1742210398384?e=1755734400&v=beta&t=fMqHa7A9hAwCDbxZuN0_UjF-H2mK9RS_SQxLfJCHi6k" width="150px" alt="Gabriel Lima" style="border-radius: 50%;">#
-  <h1>Olá, sou o Gabriel Lima! 👋</h1>
-  <p>Desenvolvedor apaixonado por criar soluções inovadoras e otimizar processos.</p>
+  <h1>Hello, I'm Gabriel Lima! 👋</h1>
+  <p>Developer passionate about creating innovative solutions and optimizing processes.</p>
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-Atualmente em formação pela Estácio, eu integro a equipe da **Secretaria de Estado de Esporte e Lazer do Distrito Federal** como **Assessor Técnico da Gerência de Desenvolvimento**, onde aplico minhas competências em **Análise de dados** e **Desenvolvimento Web**. Minha paixão pela tecnologia e o desejo de criar soluções inovadoras norteiam meu trabalho diário.
+Currently studying at Estácio, I am part of the Secretariat of State for Sports and Leisure of the Federal District team as a Technical Advisor for the Development Management, where I apply my skills in Data Analysis and Web Development. My passion for technology and the desire to create innovative solutions guide my daily work.
 
-Meu foco principal está no desenvolvimento e implantação de sistemas informatizados, colaborando ativamente na otimização de processos e no suporte técnico. Busco sempre a excelência e a satisfação do cliente, e considero a habilidade em trabalhar em equipe e a facilidade de adaptação como diferenciais essenciais no meu papel.
+My main focus is on the development and implementation of computerized systems, actively collaborating in process optimization and technical support. I always seek excellence and customer satisfaction, and I consider the ability to work in a team and adaptability as essential differentiators in my role.
 
-**Estou sempre buscando novas oportunidades para crescer e contribuir com projetos desafiadores!**
+I am always looking for new opportunities to grow and contribute to challenging projects!
 
 ---
 
-### 🛠️ Minhas Habilidades e Ferramentas
+### 🛠️ My Skills and Tools
 
-Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
+Here are the technologies and tools I work with:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,mysql,figma,git,github,vscode" />
   <br>
-  **Especialidades:** HTML, CSS, JavaScript, React, Flutter, MySQL, OutSystems, UX, UI, Canva, Figma.
+  **Specialties:** HTML, CSS, JavaScript, React, Flutter, MySQL, OutSystems, UX, UI, Canva, Figma.
 </p>
 
 ---
@@ -34,28 +33,28 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
     <img src="blob:https://gemini.google.com/248ded3f-559a-491f-af4d-f04854dd4b46" alt="Doctor Main" width="400">
   </a>
 </p>
-<p>O projeto doctormain-main é uma aplicação web desenvolvida com foco em cuidados hospitalares ou domiciliares. Construído predominantemente com HTML e CSS para a estrutura e estilização, e complementado por JavaScript para funcionalidades interativas, este repositório apresenta uma base sólida para a gestão e visualização de informações relacionadas a ambientes de saúde. 
+<p>The doctormain-main project is a web application developed with a focus on hospital or home care. Built predominantly with HTML and CSS for structure and styling, and complemented by JavaScript for interactive functionalities, this repository provides a solid foundation for managing and visualizing information related to healthcare environments.
   <br><strong>Tecnologias:</strong> HTML, CSS, JavaScript.
   <br>[Ver Repositório](https://github.com/GabrielLima05/doctormain-main.git) 
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLima05&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima05&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 💬 Vamos Conectar!
+### 💬Let's Connect!
 
-Estou sempre aberto a novas conexões e colaborações. Sinta-se à vontade para entrar em contato:
+I am always open to new connections and collaborations. Feel free to get in touch:
 
 * **LinkedIn:** [Gabriel Lima](https://www.linkedin.com/in/gabriel-lima-308a46242/)
-* **E-mail:** [gabriel05.dev@gmail.com](mailto:gabriel05.dev@gmail.com)
-* **Outro:** [GabrielLima05 ](https://github.com/GabrielLima05)
+* **Email:** [gabriel05.dev@gmail.com](mailto:gabriel05.dev@gmail.com)
+* **Other:** [GabrielLima05 ](https://github.com/GabrielLima05)
 
 ---
 
-<p align="center">Feito com ❤️ por Gabriel Lima</p>
+<p align="center">Made with ❤️ by Gabriel Lima</p>
