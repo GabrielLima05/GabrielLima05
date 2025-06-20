@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Gabriel Lima! 👋</h1>
+  <h1>Hello, I'm Gabriel Lima! </h1>
   <p>Developer passionate about creating innovative solutions and optimizing processes.</p>
 </div>
 
@@ -57,4 +57,4 @@ I am always open to new connections and collaborations. Feel free to get in touc
 
 ---
 
-<p align="center">Made with ❤️ by Gabriel Lima</p>
+<p align="center">by Gabriel Lima</p>
