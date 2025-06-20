@@ -52,9 +52,9 @@ Aqui estão as tecnologias e ferramentas com as quais eu trabalho:
 
 Estou sempre aberto a novas conexões e colaborações. Sinta-se à vontade para entrar em contato:
 
-* **LinkedIn:** [Seu Perfil do LinkedIn](https://www.linkedin.com/in/gabriel-lima-308a46242/)
-* **E-mail:** [Seu E-mail](mailto:gabriel05.dev@gmail.com)
-* **Outro:** [Seu Portfólio/Website Pessoal ](https://github.com/GabrielLima05)
+* **LinkedIn:** [Gabriel Lima](https://www.linkedin.com/in/gabriel-lima-308a46242/)
+* **E-mail:** [gabriel05.dev@gmail.com](mailto:gabriel05.dev@gmail.com)
+* **Outro:** [GabrielLima05 ](https://github.com/GabrielLima05)
 
 ---
 
