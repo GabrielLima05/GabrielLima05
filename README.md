@@ -53,7 +53,7 @@ I am always open to new connections and collaborations. Feel free to get in touc
 
 * **LinkedIn:** [Gabriel Lima](https://www.linkedin.com/in/gabriel-lima-308a46242/)
 * **Email:** [gabriel05.dev@gmail.com](mailto:gabriel05.dev@gmail.com)
-* **Other:** [GabrielLima05 ](https://github.com/GabrielLima05)
+* **Other:** [CodePen_Gabriel Lima ](https://codepen.io/GabrielLima05)
 
 ---
 
