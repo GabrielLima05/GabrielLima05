@@ -51,9 +51,9 @@ Here are the technologies and tools I work with:
 
 I am always open to new connections and collaborations. Feel free to get in touch:
 
-* **LinkedIn:** [Gabriel Lima](https://www.linkedin.com/in/gabriel-lima-308a46242/)
+* **LinkedIn:** [https://www.linkedin.com/in/gabriel-lima-308a46242/](https://www.linkedin.com/in/gabriel-lima-308a46242/)
 * **Email:** [gabriel05.dev@gmail.com](mailto:gabriel05.dev@gmail.com)
-* **Other:** [CodePen_Gabriel Lima ](https://codepen.io/GabrielLima05)
+* **Other:** [https://codepen.io/GabrielLima05](https://codepen.io/GabrielLima05)
 
 ---
 
