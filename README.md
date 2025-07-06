@@ -27,7 +27,7 @@ Here are the technologies and tools I work with:
 
 ---
 
-#### **Doctor Main**
+### **Doctor Main**
 <p>
   <a href="https://github.com/GabrielLima05/doctormain-main">
     <img src="blob:https://gemini.google.com/248ded3f-559a-491f-af4d-f04854dd4b46" alt="Doctor Main" width="400">
