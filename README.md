@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&width=635&lines=Hello%2C+I'm+Gabriel+Lima!)](https://git.io/typing-svg)
 <div align="center">
   <h1>Hello, I'm Gabriel Lima! </h1>
   <p>Developer passionate about creating innovative solutions and optimizing processes.</p>
@@ -6,7 +5,7 @@
 
 ---
 
-### 🚀 About Me
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
 Currently studying at Estácio, I am part of the Secretariat of State for Sports and Leisure of the Federal District team as a Technical Advisor for the Development Management, where I apply my skills in Data Analysis and Web Development. My passion for technology and the desire to create innovative solutions guide my daily work.
 
