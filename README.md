@@ -1,5 +1,5 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&width=635&lines=Hello%2C+I'm+Gabriel+Lima!)](https://git.io/typing-svg)
+<div align="center">
   <h1>Hello, I'm Gabriel Lima! </h1>
   <p>Developer passionate about creating innovative solutions and optimizing processes.</p>
 </div>
