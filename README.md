@@ -5,7 +5,7 @@
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%9A%80+About+Me)](https://git.io/typing-svg)
 
 Currently studying at Estácio, I am part of the Secretariat of State for Sports and Leisure of the Federal District team as a Technical Advisor for the Development Management, where I apply my skills in Data Analysis and Web Development. My passion for technology and the desire to create innovative solutions guide my daily work.
 
