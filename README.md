@@ -4,6 +4,7 @@
 </div>
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&width=435&lines=Hello%2C+I'm+Gabriel+Lima!)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 
