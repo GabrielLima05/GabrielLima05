@@ -15,7 +15,7 @@ I am always looking for new opportunities to grow and contribute to challenging 
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+My+Skills+and+Tools)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=2000&color=F7F7F7&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+My+Skills+and+Tools)](https://git.io/typing-svg)
 
 Here are the technologies and tools I work with:
 
@@ -41,14 +41,14 @@ Here are the technologies and tools I work with:
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%93%8A+My+GitHub+Stats)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=3000&color=F7F7F7&width=435&lines=%F0%9F%93%8A+My+GitHub+Stats)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLima05&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLima05&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%92%ACLet's+Connect!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=4000&color=F7F7F7&width=435&lines=%F0%9F%92%ACLet's+Connect!)](https://git.io/typing-svg)
 
 I am always open to new connections and collaborations. Feel free to get in touch:
 
